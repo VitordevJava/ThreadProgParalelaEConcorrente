@@ -112,8 +112,8 @@ Autor
 
 João Vitor Soares de Carvalho
 
-LinkedIn: [linkedin.com/in/vitorcrv]
+LinkedIn: [ linkedin.com/in/vitorcrv ]
 
-GitHub: [github.com/VitordevJava]
+GitHub: [ github.com/VitordevJava ]
 
 E-mail: [vitordev.java@gmail.com]
